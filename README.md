@@ -1,25 +1,13 @@
 <a id="readme-top"></a>
 
-
-<!-- This template is in Markdown, so you can copy and paste it directly into the GitHub ReadMe file and use the formatting included here. Here are some instructions on how to create ReadMe.md files in GitHub: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
-
-
-<!-- Instructions and examples below are commented out. Please remove the comment markup on your final document. -->
-
-
-<!-- Feel free to personalize! You can add additional sections, images, logos, or other content as you wish. We ask that you keep the required sections and formatting so that materials are consistent across the collection. --> 
-
-
-#Teaching with Twine
+# Teaching with Twine
  
-##About
-<!-- Required: Include brief prose description of the project and the repository. This description should build on or contextualize the language in your Twine Object, provide concrete contextual information, or describe the possible applications of your Twine or other materials. 100 words is fine, but you’re free to make this as expansive as you wish to help situate readers in your materials and how they might use them. --> 
+## About
 Science AL!VE is an organization within the Faculty of Applied Sciences at Simon Fraser University that offers fun, hands-on opportunities for K-12 youth to explore science, technology, engineering, art and design, and mathematics (STEAM) topics. In addition to running youth programs, Science AL!VE supports teachers through providing professional development workshops and teaching resources. The Teaching with Twine workshop is a professional development workshop for high school teachers on how to effectively integrate Twine into K-12 classrooms. This workshop is co-designed by a pre-service teacher educator and a Science AL!VE program coordinator. By attending this workshop, participants learn the basics of Twine through a code-along activity, discuss best practices for using technology in teaching, and gain access to sample lesson plans that feature the integration of Twine. This repository contains resources for the Teaching with Twine workshop for high school teachers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
-##Files
-<!-- Required: list all files included with brief descriptions -->
+
+## Files
 
 ### Twine Tutorials
 
@@ -56,37 +44,26 @@ You can find three sample lesson plans designed by pre-service teachers in the [
 ### Cheatsheet
 * [twine_cheatsheet.pdf](https://github.com/psyduckling/teachingwithtwine/blob/main/twine_cheatsheet.pdf): This is a cheatsheet that features five common questions new users encounter when using Twine.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
-###Additional links 
-<!-- If desired, including your own GitHub repository, a relevant website, or other -->
+
+## Additional links 
 These resources can also be found on the Science AL!VE website: https://sciencealive.ca/teaching-with-twine
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Licensing and Citation
 
-##Licensing and Citation
-
-
-###License
-<!-- If desired, you may apply your own license to your materials. If so, include a LICENSE.txt file in the root directory of your repository and link to it here. We ask that you consider using open-source licenses like Creative Commons to facilitate readers using and developing your sample resources. Unless you indicate otherwise, all material in EnTwine will be licensed as CC BY-SA 4.0. -->
-
-
-<!-- Ex. Distributed under the MIT License. See LICENSE.txt for more information. -->
-<!-- Ex. CC BY-SA 4.0 license inherited from EnTwine collection. See [slug provided by editors] for more information. -->
+### License
 CC BY-SA 4.0 license inherited from EnTwine collection.
 
-##Contact
+## Contact
 
+### Authors
+* Chris Kerslake - chris_kerslake@sfu.ca <!-- include desired contact information -->
+* Eva Yap  - eva_yap@sfu.ca 
+* Author GitHub Link: https://github.com/psyduckling/teachingwithtwine
 
-###Authors
-Chris Kerslake - chris_kerslake@sfu.ca <!-- include desired contact information -->
-Eva Yap  - eva_yap@sfu.ca 
-Author GitHub Link: https://github.com/psyduckling/teachingwithtwine
-
-##Acknowledgments
-<!-- If desired, list relevant resources you find helpful and would like to give credit to. -->
+## Acknowledgments
 The authors would like to acknowledge the pre-service teachers who contributed their Twine lesson plan assignments as resources for this teacher professional development workshop.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

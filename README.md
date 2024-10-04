@@ -44,6 +44,8 @@ You can find three sample lesson plans designed by pre-service teachers in the [
 ### Cheatsheet
 * [twine_cheatsheet.pdf](https://github.com/psyduckling/teachingwithtwine/blob/main/twine_cheatsheet.pdf): This is a cheatsheet that features five common questions new users encounter when using Twine.
 
+*Please note that Twine files must be downloaded as raw HTML and then opened from the downloaded HTML file.*
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Additional links 

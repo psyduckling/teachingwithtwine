@@ -37,7 +37,7 @@ You can find three sample lesson plans designed by pre-service teachers in the [
 * [Love Letters to Myself.docx](https://github.com/psyduckling/teachingwithtwine/blob/main/sample_lesson_plans/Love%20Letters%20to%20Myself/Love%20Letters%20to%20Myself.docx): This is the lesson plan for the Love Letters to Myself activity.
 * [Love Letters to Myself - Twine Project - Slides.pdf](https://github.com/psyduckling/teachingwithtwine/blob/main/sample_lesson_plans/Love%20Letters%20to%20Myself/Love%20Letters%20to%20Myself%20-%20Twine%20Project%20-%20Slides.pdf): These are the slides that accompany the Love Letters to Myself lesson plan.
 * [Love Letters to Myself - Worksheet.pdf](https://github.com/psyduckling/teachingwithtwine/blob/main/sample_lesson_plans/Love%20Letters%20to%20Myself/Love%20Letters%20to%20Myself%20-%20Worksheet.pdf): This is the student worksheet for the Love Letters to Myself activity.
-* [Love Letters to Myself - Rubric.docx](https://github.com/psyduckling/teachingwithtwine/blob/main/sample_lesson_plans/Love%20Letters%20to%20Myself/Love%20Letters%20to%20Myself%20-%20Rubric.docx): This is the rubric the Love Letters to Myself activity.
+* [Love Letters to Myself - Rubric.docx](https://github.com/psyduckling/teachingwithtwine/blob/main/sample_lesson_plans/Love%20Letters%20to%20Myself/Love%20Letters%20to%20Myself%20-%20Rubric.docx): This is the rubric for the Love Letters to Myself activity.
 * [Love Letters to Myself.html](https://github.com/psyduckling/teachingwithtwine/blob/main/sample_lesson_plans/Love%20Letters%20to%20Myself/Love%20Letters%20to%20Myself.html): This is the HTML file of the Twine template for the Love Letters to Myself activity.
 
 
@@ -51,6 +51,8 @@ You can find three sample lesson plans designed by pre-service teachers in the [
 ## Additional links 
 These resources can also be found on the Science AL!VE website: https://sciencealive.ca/teaching-with-twine
 
+Use this link to access the original repository: https://github.com/psyduckling/teachingwithtwine
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Licensing and Citation
@@ -62,8 +64,7 @@ CC BY-SA 4.0 license inherited from EnTwine collection.
 
 ### Authors
 * Chris Kerslake - chris_kerslake@sfu.ca <!-- include desired contact information -->
-* Eva Yap  - eva_yap@sfu.ca 
-* Author GitHub Link: https://github.com/psyduckling/teachingwithtwine
+* Shyong Quin Yap  - eva_yap@sfu.ca
 
 ## Acknowledgments
 The authors would like to acknowledge the pre-service teachers who contributed their Twine lesson plan assignments as resources for this teacher professional development workshop.
